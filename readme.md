@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 
-[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/TELA-DE-LOGIN/)
+[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Tela-De-Login/)
 
 ## 🛠️ Tecnologias 
 
